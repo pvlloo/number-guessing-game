@@ -51,7 +51,7 @@ cd number-guessing-game
 Run the program:
 
 ```bash
-python guessing_number_game.py
+python Number_Guessing_Game.py
 ```
 
 ---
