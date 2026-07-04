@@ -72,7 +72,7 @@ python Number_Guessing_Game.py
 ```
 number-guessing-game/
 │
-├── Guessing_Number_Game.py
+├── Number_Guessing_Game.py
 └── README.md
 ```
 
